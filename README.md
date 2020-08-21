@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+**I’m currently working on:**
+ - Machine Learning
+ - PenTesting
+ - Scripting
+
+**I’m currently learning:**
+ - Cloud Computing
+ - Data Science
+ - PenTesiting
+ 
+ 
 <!--
 **PradyumnaKrishna/PradyumnaKrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

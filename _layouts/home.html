@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% for post in site.post %}
+
+<a href="{{ post.url | prepend: site.baseurl }}">
+  <h2>{{ post.title }}</h2>
+</a>
+
+<p class="post-excerpt">{{ post.description | truncate: 160 }}</p>
+
+{% endfor %}

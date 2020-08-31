@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Pradyumna 👋
 
-**I’m currently working on:**
- - Machine Learning
- - PenTesting
- - Scripting
+And most people know me as:
 
-**I’m currently learning:**
- - Cloud Computing
- - Data Science
- - PenTesiting
- 
- 
+ - **Student:**
+   Researching and learning in computer
+
+ - **Developer:**
+   Developing and building AI & ML projects using real world data
+
+ - **PenTester:**
+   To secure the system
+
+ - **Engineer:**
+   Building something to automate our daily task
 <!--
 **PradyumnaKrishna/PradyumnaKrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,3 +1,5 @@
+<img src="logo.svg" align="right" height="50" width="50"/>
+
 ### Hi, I'm Pradyumna 👋
 
 And most people know me as:
